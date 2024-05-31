@@ -1,23 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Object_Oriented_Design_Project
 {
-    public class KitchenStaff: Person
+    public class KitchenStaff : Person
     {
         private Dictionary<int, Order> _orders;
-        public KitchenStaff(int id): base(id, "", "", "")
-        { 
+
+        public KitchenStaff(int id) : base(id, "", "", "")
+        {
             _orders = new Dictionary<int, Order>();
         }
+
         public void ReceiveOrder(Order order)
         {
             _orders.Add(order.ID, order);
         }
+
         public void UpdateOrder(string status, int id)
         {
             try
@@ -26,7 +25,8 @@ namespace Object_Oriented_Design_Project
             }
             catch (Exception ex)
             {
-                
+                // Handle exception
+                Console.WriteLine($"Error updating order: {ex.Message}");
             }
         }
     }

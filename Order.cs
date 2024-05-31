@@ -1,20 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Object_Oriented_Design_Project
+namespace Object_Oriented_Design_Project.Models
 {
-    public class Order
+    public abstract class Order
     {
-        public string Status { get; set; }
         public int ID { get; set; }
-        public string Details { get; set; }
-        private List<MenuItem> _menuItems;
+        public string Status { get; set; }
+        public List<MenuItem> MenuItems { get; private set; }
+
         public Order(List<MenuItem> items)
         {
-            _menuItems = items;
+            MenuItems = items;
+            Status = "Pending";
         }
     }
 }

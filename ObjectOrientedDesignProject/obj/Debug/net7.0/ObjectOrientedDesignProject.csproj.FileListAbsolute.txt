@@ -1,0 +1,15 @@
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/bin/Debug/net7.0/ObjectOrientedDesignProject
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/bin/Debug/net7.0/ObjectOrientedDesignProject.deps.json
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/bin/Debug/net7.0/ObjectOrientedDesignProject.runtimeconfig.json
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/bin/Debug/net7.0/ObjectOrientedDesignProject.dll
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/bin/Debug/net7.0/ObjectOrientedDesignProject.pdb
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.csproj.AssemblyReference.cache
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.AssemblyInfoInputs.cache
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.AssemblyInfo.cs
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.csproj.CoreCompileInputs.cache
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.dll
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/refint/ObjectOrientedDesignProject.dll
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.pdb
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ObjectOrientedDesignProject.genruntimeconfig.cache
+/Users/chungyi/Documents/OO-Software-Architecture/ObjectOrientedDesignProject/obj/Debug/net7.0/ref/ObjectOrientedDesignProject.dll
